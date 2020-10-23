@@ -1,22 +1,17 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          Saibal De
+description:    "Personal Website for Saibal De, Graduate Student Research Assistant (GSRA) at University of Michigan, Ann Arbor"
+url:            "https://saibalde.github.io"
+baseurl:        ""
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Saibal De
+  url:          https://saibalde.github.io
+  email:        saibalde@umich.edu
 
 # Build settings
 markdown:       kramdown
-include:
-  - _pages
 
 # Assets
 sass:
@@ -26,16 +21,10 @@ sass:
 # Gems
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
+exclude: [ Gemfile, Gemfile.lock ]
