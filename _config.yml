@@ -27,4 +27,4 @@ plugins:
 permalink:      /:year-:month-:day/:title
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock ]
+exclude: [ Gemfile, Gemfile.lock, CNAME ]
