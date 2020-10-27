@@ -34,6 +34,9 @@ permalink: /presentations/
 
 # Seminar Talks
 
+*   **Oct 2020:** Student AIM Seminar, University of Michigan \\
+    A quick tour of the Bayesian approach to low-rank matrix completion
+
 *   **May 2020:** SIAM Student Mini-symposium in Applied Mathematics, University of Michigan \\
     Large scale simulation of non-smooth dynamics of granular media
 

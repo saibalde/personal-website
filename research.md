@@ -22,7 +22,7 @@ permalink: /research/
 
 ## Fast Solvers for Stokes Flow past Axisymmetric Geometries
 
-At very small length scales (e.g. for describing motions of bacterias), the
+At very small length scales (e.g. for describing motions of bacteria), the
 motion of a fluid is approximated by Stokes equation. Using the Greens' function
 for this elliptic partial differential equation, we can write the solution of a
 boundary value problem as a boundary integral equation (BIE). It is well

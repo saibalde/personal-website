@@ -15,7 +15,7 @@ I obtained my Four Year Bachelor of Science (Research) degree in Mathematics
 (Bangalore)](https://iisc.ac.in/) in 2016.
 
 I currently co-organize the [Directed Reading
-Program](https://sites.google.com/umich.edu/drp) at the Departhemt of
+Program](https://sites.google.com/umich.edu/drp) at the Department of
 Mathematics, University of Michigan. During Fall 2018 and Winter 2019 semesters,
 I co-hosted the [Student Machine Learning
 Seminar](http://dept.math.lsa.umich.edu/seminars_events/events.php?eventdefid=98)
