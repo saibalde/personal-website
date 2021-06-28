@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Current Courses
 
-I am not teaching any courses in the Fall 2020 semester.
+I am not teaching any courses in the Spring/Summer 2021 semesters.
 
 # Past Courses
 

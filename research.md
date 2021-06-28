@@ -6,14 +6,17 @@ permalink: /research/
 
 # Publications and Preprints
 
-*   **Efficient MCMC Sampling for Bayesian Matrix Factorization by Breaking
-    Posterior Symmetries** \\
+*   **Overcoming barriers to scalability in variational quantum Monte Carlo** \\
+    Tianchen Zhao, Saibal De, Brian Chen, James Stokes and Shravan Veerapaneni \\
+    *arXiv:2106.13308 (2021)* \\
+    [(PDF)]({{ '/assets/pdf/zhao2021overcoming.pdf' | prepend: site.baseurl }})
+
+*   **Efficient MCMC Sampling for Bayesian Matrix Factorization by Breaking Posterior Symmetries** \\
     Saibal De, Hadi Salehi and Alex Gorodetsky \\
     *arXiv:2006.04295 (2020)* \\
     [(PDF)]({{ '/assets/pdf/de2020efficient.pdf' | prepend: site.baseurl }})
 
-*   **Scalable Solvers for Cone Complementarity Problems in Frictional Multibody
-    Dynamics** \\
+*   **Scalable Solvers for Cone Complementarity Problems in Frictional Multibody Dynamics** \\
     Saibal De, Eduardo Corona, Paramsothy Jayakumar and Shravan Veerapaneni \\
     *IEEE High Performance Extreme Computing (HPEC) Conference (2019)* \\
     [(PDF)]({{ '/assets/pdf/de2019scalable.pdf' | prepend: site.baseurl }})
