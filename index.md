@@ -14,10 +14,10 @@ I obtained my Four Year Bachelor of Science (Research) degree in Mathematics
 (with a minor in Physics) from [Indian Institute of Science
 (Bangalore)](https://iisc.ac.in/) in 2016.
 
-I currently co-organize the [Directed Reading
+I was a co-organizer for the [Directed Reading
 Program](https://sites.google.com/umich.edu/drp) at the Department of
-Mathematics, University of Michigan. During Fall 2018 and Winter 2019 semesters,
-I co-hosted the [Student Machine Learning
+Mathematics, University of Michigan from Fall 2019 to Fall 2020. During Fall
+2018 and Winter 2019 semesters, I co-hosted the [Student Machine Learning
 Seminar](http://dept.math.lsa.umich.edu/seminars_events/events.php?eventdefid=98)
 with [Rishi Sonthalia](https://sites.google.com/umich.edu/rsonthal/).
 
