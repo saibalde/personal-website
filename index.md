@@ -40,8 +40,7 @@ also started exploring data-driven reduced-order modeling frameworks, utilizing
 
 to generate surrogate models for time-critical learning applications.
 
-Here is my [CV]({{ '/assets/pdf/curriculum-vitae.pdf' | prepend: site.baseurl
-}}) and [Research Statement]({{ '/assets/pdf/research-statement.pdf' | prepend:
+Here is a link to my [CV]({{ '/assets/pdf/curriculum-vitae.pdf' | prepend:
 site.baseurl }}).
 
 # Contact
