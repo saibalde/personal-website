@@ -16,12 +16,12 @@ permalink: /research/
     *arXiv:2106.13308 (2021)* \\
     [(PDF)](https://arxiv.org/pdf/2106.13308.pdf)
 
-*   **Efficient MCMC Sampling for Bayesian Matrix Factorization by Breaking Posterior Symmetries** \\
+*   **Efficient MCMC sampling for Bayesian matrix factorization by breaking posterior symmetries** \\
     Saibal De, Hadi Salehi and Alex Gorodetsky \\
     *arXiv:2006.04295 (2020)* \\
     [(PDF)](https://arxiv.org/pdf/2006.04295.pdf)
 
-*   **Scalable Solvers for Cone Complementarity Problems in Frictional Multibody Dynamics** \\
+*   **Scalable solvers for cone complementarity problems in frictional multibody dynamics** \\
     Saibal De, Eduardo Corona, Paramsothy Jayakumar and Shravan Veerapaneni \\
     *IEEE High Performance Extreme Computing (HPEC) Conference (2019)* \\
     [(PDF)]({{ '/assets/pdf/de2019scalable.pdf' | prepend: site.baseurl }})

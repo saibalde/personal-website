@@ -7,7 +7,7 @@ permalink: /presentations/
 # Contributed Talks
 
 *   **Jul 2021:** 16th U.S. National Congress on Computational Mechanics \\
-    *Reduced-Order Modeling of Parameteric Simulations with Bayesian Matrix Completion*
+    *Reduced-order modeling of parametric simulations with Bayesian matrix completion*
 
 *   **Sep 2019:** IEEE High-Performance Extreme Computing (HPEC) Conference, Waltham, MA \\
     *Scalable solvers for cone complementarity problems in frictional multibody dynamics*
